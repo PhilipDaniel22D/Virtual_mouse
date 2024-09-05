@@ -1,2 +1,2 @@
-# Virual_mouse
+# Virtual_mouse
 The Virtual Mouse project is a Python-based application that allows users to control their computer’s mouse movements and perform click actions using hand gestures detected by a webcam. The system uses OpenCV for real-time video processing, Mediapipe for hand tracking and gesture detection, and PyAutoGUI to simulate mouse movements and clicks. Users can control the cursor and perform left or right clicks without physical contact, making it an innovative solution for touchless interfaces. To get started, clone the repository, install the required dependencies, and run the script.
